@@ -44,11 +44,11 @@
 	</div>
 	<div  class="container" style="border: 1px solid black;background-color:#f0f8ff;font face=Arial">
 				<ul class="nav navbar-nav">
-					<li ><a href="index.php"><b>Inicio</b></a></li>
-					<li class="active"><a href="#"><b>Docentes</b></a></li>
-					<li><a href="reservas.php"><b>Reservas</b></a></li>
-					<li><a href="horarios.php"><b>Horarios</b></a></li>
-					<li><a href="historial.php"><b>Historial de reservas</b></a></li>
+					<li ><a href="index.php"><b>INICIO</b></a></li>
+					<li class="active"><a href="#"><b>DOCENTES</b></a></li>
+					<li><a href="reservas.php"><b>RESERVAS</b></a></li>
+					<li><a href="horarios.php"><b>HORARIOS</b></a></li>
+					<li><a href="historial.php"><b>HISTORIAL DE RESERVAS</b></a></li>
 				</ul>
 	</div>
 <div class="container" style="border: 1px solid black;background-color:#cccccc">
